@@ -1,9 +1,9 @@
 # Penugasan Numerical Python
 ## Kelompok 1
--
-- Rayhan Akbar Zulkarnaen (103102400069)
-- ⁠Dhana Zeta Pangestu (103102400064)
 - Ahmad Rasya Raeanandtama (103102400019)
+- Dhana Zeta Pangestu (103102400064)
+- ⁠Rayhan Akbar Zulkarnaen (103102400069)
+-
 -
 
 
