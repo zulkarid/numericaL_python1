@@ -3,8 +3,8 @@
 - Ahmad Rasya Raeanandtama (103102400019)
 - Dhana Zeta Pangestu (103102400064)
 - ⁠Rayhan Akbar Zulkarnaen (103102400069)
--
--
+- Faza Nur Aulia Suraya  (103102400066)
+- Muhammad nabil Fahruddin Evan (103102400053)
 
 
 Tugas ini dibuat merangkum dasar - dasar python untuk kebutuhan mata kuliah IPSD yang terdiri atas:
